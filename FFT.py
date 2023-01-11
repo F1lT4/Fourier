@@ -33,7 +33,7 @@ while d_freq >= freq_min:
 
     k_v += 1
 
-# define l steps
+# define l steps (number of frequencies)
 
 l_steps = 50
 
