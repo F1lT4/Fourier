@@ -1,7 +1,7 @@
 from math import pi, cos, sin
 import matplotlib.pyplot as plt
 import numpy as np
-
+# warning stupid code 
 # define the functions
 # Number of sample points
 
